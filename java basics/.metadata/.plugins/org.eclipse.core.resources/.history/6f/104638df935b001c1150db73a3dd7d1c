@@ -1,0 +1,12 @@
+
+public class Arraycopy {
+	public static void main(String[] args) {
+		char[] ch = {'a','b','c','d','e','t','u','k','h'};
+		char[] cp = new char [5];
+		System.arraycopy(ch,1,cp,0,7);
+		for(char c: cp)
+			System.out.println(c);
+		
+	}
+
+}

@@ -1,0 +1,22 @@
+package Oopsjava;
+
+//import java.text.SimpleDateFormat;
+import java.util.*;
+public class Textperson {
+	public static void main(String[] args) {
+    Person pr = new Person();
+    Date d = new Date(13/06/1998);
+   System.out.println(d);
+	
+	
+	
+    pr.setName("monti gupta");
+    System.out.println(pr);
+    pr.setDob(d);
+    pr.setAddress("Indore mp.");
+    
+    
+	}
+   
+    
+}

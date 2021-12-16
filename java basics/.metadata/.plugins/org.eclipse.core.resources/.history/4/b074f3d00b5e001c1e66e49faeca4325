@@ -1,0 +1,36 @@
+package Oopsjava;
+
+public class Automobile {
+
+	  private String color;
+	  private int speed;
+	  private int gear;
+	  private String make;
+	String getColor() {
+		return color;
+	}
+	void setColor(String color) {
+		this.color = color;
+	}
+	int getSpeed() {
+		return speed;
+	}
+	void setSpeed(int speed) {
+		this.speed = speed;
+	}
+	int getGear() {
+		return gear;
+	}
+	void setGear(int gear) {
+		this.gear = gear;
+	}
+	String getMake() {
+		return make;
+	}
+	void setMake(String make) {
+		this.make = make;
+	}
+	  
+	  
+	  
+}

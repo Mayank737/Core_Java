@@ -1,0 +1,19 @@
+package Oopsjava;
+
+public class Constructer {
+	private String Color;
+	private int BorderWidth;
+	String getColor()
+	{
+		return Color;
+	}
+
+	
+	int getBorderWidth() {
+		return BorderWidth;
+	}
+	
+	
+	
+
+}

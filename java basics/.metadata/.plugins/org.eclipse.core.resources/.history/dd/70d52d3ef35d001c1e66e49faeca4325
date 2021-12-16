@@ -1,0 +1,15 @@
+package Oopsjava;
+
+public class Textperson {
+	public static void main(String[] args) {
+    Person pr = new Person();
+    Date d = new Date();
+    pr.setName("monti gupta");
+    pr.setDob(16/12/2021);
+    pr.setAddress("Indore mp.");
+    
+    
+	}
+   
+    
+}

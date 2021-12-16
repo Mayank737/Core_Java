@@ -1,0 +1,16 @@
+package Oopsjava;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class TestPersn {
+public static void main(String[] args) {
+	SimpleDateFormat d = new SimpleDateFormat("dd/mm/yyyy");
+	
+    TestPersn pr = new TestPersn();
+    
+    
+	
+	
+}
+}

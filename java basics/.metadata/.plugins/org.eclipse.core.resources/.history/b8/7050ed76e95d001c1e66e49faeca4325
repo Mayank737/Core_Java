@@ -1,0 +1,11 @@
+package Oopsjava;
+
+public class Textjava {
+ public static void main(String[] args) {
+	Shape s = new shape;
+	s.setBorderWidth(8);
+	s.setColor("black");
+	
+	
+}
+}

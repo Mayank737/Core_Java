@@ -1,0 +1,9 @@
+package parseint;
+
+public class Testmethod {
+	public void add()
+	{
+		System.out.println(5+8);
+	}
+
+}

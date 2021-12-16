@@ -1,0 +1,17 @@
+package Oopsjava;
+
+public class testaccount {
+public static void main(String[] args) {
+	Account b = new Account();
+	b.setNumber("12345678990");
+    b.setType("Current account");
+    b.setBalance(100000);
+    String c = b.getNumber();
+    
+    System.out.println(b.getNumber());
+    System.out.println(b.getType());
+    System.out.println(b.getBalance());
+    
+    
+}
+}

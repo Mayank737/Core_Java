@@ -1,0 +1,19 @@
+package javaloops;
+
+public class armstrong {
+   public static void main(String[] args) {
+	int number=371,orignalNumber,rem,result=0;
+	orignalNumber=number;
+	
+	while(orignalNumber!=0)
+	{
+		rem = orignalNumber % 10;
+		result +=Math.pow(rem,3);
+		orignalNumber /= 10;
+	}
+	if(result == number)
+		System.out.println(number + " numbder is armstrong");
+	else
+		System.out.println(number + " number is not armstrong");
+}   
+}

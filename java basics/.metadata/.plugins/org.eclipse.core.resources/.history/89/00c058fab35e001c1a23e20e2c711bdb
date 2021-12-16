@@ -1,0 +1,12 @@
+package Oopsjava;
+
+public class Constructer {
+	
+	private int  borderWidth;
+	private String color;
+	
+	public  Constructer();{
+		
+	}
+			
+		}

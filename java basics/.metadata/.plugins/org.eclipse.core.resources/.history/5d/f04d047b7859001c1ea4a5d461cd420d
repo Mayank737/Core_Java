@@ -1,0 +1,10 @@
+package javaloops;
+
+public class smalleroftwonumbers {
+	public static void main(String[] args) {
+  int i=15;
+  int j=18;
+  
+  System.out.println(" minimum value :"+ Math.min(15, 18));
+}
+}

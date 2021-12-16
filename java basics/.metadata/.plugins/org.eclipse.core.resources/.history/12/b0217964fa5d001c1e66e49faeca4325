@@ -1,0 +1,12 @@
+package Oopsjava;
+
+public class Automobile {
+
+	  private String color;
+	  private int speed;
+	  private int gear;
+	  private String make;
+	  
+	  
+	  
+}

@@ -1,0 +1,9 @@
+
+public class array1d2 {
+  public static void main(String[] args) {
+	Char[] ch = { 'a' ,'b' ,'c' ,'d' ,'e' ,'t' ,'y'};
+	Char []  = New char[5];
+	System.out.printlnarraycopy();
+	
+}
+}

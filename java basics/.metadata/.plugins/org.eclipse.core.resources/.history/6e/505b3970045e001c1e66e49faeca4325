@@ -1,0 +1,19 @@
+package Oopsjava;
+
+public class testaccount {
+	public static void main(String[] args) {
+
+		Account balance= new Account();
+		balance.deposit(115.5, 78.5);
+
+		Account b = new Account();
+		b.setName("12345678990");
+		b.setType("Current account");
+		b.setBalance(100000.456);
+
+		System.out.println(b.getName());
+		System.out.println(b.getType());
+		System.out.println(b.getBalance());
+
+	}
+}

@@ -1,0 +1,21 @@
+package Oopsjava;
+
+import java.text.SimpleDateFormat;
+import java.util.*;
+
+public class TestPersn {
+public static void main(String[] args) {
+	SimpleDateFormat d = new SimpleDateFormat("dd/mm/yyyy");
+	
+    Person p = new Person();
+    p.setName("monti");
+    p.setDob(sdf.Parse("13/12/1999"));
+    p.setAddress(null);
+    
+    
+    
+    
+	
+	
+}
+}

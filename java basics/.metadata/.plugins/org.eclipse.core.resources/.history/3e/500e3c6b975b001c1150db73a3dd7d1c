@@ -1,0 +1,15 @@
+package Javadateutil;
+import java.text.SimpleDateFormat;
+import java.util.*;
+public class Dateclass2 {
+      public static void main(String[] args) {
+		Date d = new Date();
+		System.out.println(d);
+		
+		SimpleDateFormat msd = new SimpleDateFormat("dd/mm/yyyy");
+	}
+		
+	}
+	
+
+

@@ -1,0 +1,33 @@
+package Oopsjava;
+
+public class Account {
+	private String number = null;
+	private double balance = 0;
+	private String type = null;
+	
+	String getNumber() {
+		return number;
+	}
+	void setNumber(String number) {
+		this.number = number;
+	}
+	double getBalance() {
+		return balance;
+	}
+	void setBalance(double balance) {
+		this.balance = balance;
+	}
+	String getType() {
+		return type;
+	}
+	void setType(String type) {
+		this.type = type;
+	}
+	
+
+	}
+	
+	
+	
+
+

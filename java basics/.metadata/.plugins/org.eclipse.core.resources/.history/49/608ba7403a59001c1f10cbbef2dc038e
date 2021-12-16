@@ -1,0 +1,11 @@
+package String;
+
+public class mathmax {
+	public static void main(String[] args) {
+		int a = 20;
+		int b = 30;
+	int	math = a+b;
+		System.out.println("Max20,30"   + Math.max(20,30));
+	}
+
+}

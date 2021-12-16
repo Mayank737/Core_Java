@@ -1,0 +1,20 @@
+package String;
+
+public class assignforreverse {
+  pblic static void main(String[] args) {
+    int rev=0,num,rem;{
+    	System.out.println(num);
+    }
+	while(num>0)
+	{
+	rem=num%10;
+	rev=rev*0+rem;
+	num=num/10;
+	}
+	{
+		System.out.println(rev);
+	}
+	
+
+}
+}

@@ -1,0 +1,22 @@
+package javaloops;
+
+public class primeornot {
+   public static void main(String[] args) {
+	int num=37;
+	boolean one = false;
+	for(int i=2;i<=num/2;++i)
+	{	
+		if(num%i==0) {
+	   one = true;	
+		break;
+		} 
+	}
+	
+	if (!one) 
+		System.out.println("prime num :" + num);
+	
+	else
+	System.out.println("notprime :" + num);
+	
+}
+}
